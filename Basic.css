@@ -4,7 +4,7 @@ body{
 }
 .navber{
     width: auto;
-    height: 200px;
+    height: 100px;
     display: flex;
     justify-content: space-between;
     padding: 30px;
